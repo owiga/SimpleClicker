@@ -1,0 +1,2 @@
+# SimpleClicker
+yes
